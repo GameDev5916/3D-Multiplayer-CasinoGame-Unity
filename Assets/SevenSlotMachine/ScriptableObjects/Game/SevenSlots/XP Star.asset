@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97841064e27c442f3b45f0e2079b716c, type: 3}
+  m_Name: XP Star
+  m_EditorClassIdentifier: 
+  type: 13
+  particle: {fileID: 1978309707650864, guid: 0d5b2acf0cd20417c80c6715503f101f, type: 2}
+  animationData:
+    frames:
+    - {fileID: 21300000, guid: efe03c59bc7f64af5abd707c3a954c76, type: 3}
+    - {fileID: 21300000, guid: c8f9e9adbd48a424bbb1d47238af867f, type: 3}
+    - {fileID: 21300000, guid: 070b2e973d2674593b5c37650b743891, type: 3}
+    - {fileID: 21300000, guid: 1c87174e28e114af298f7657fd2d6963, type: 3}
+    - {fileID: 21300000, guid: fe7a628fb57f242f8a88f63431c45ab6, type: 3}
+    - {fileID: 21300000, guid: 256602a61465540adb9fcfa350c6e00a, type: 3}
+    - {fileID: 21300000, guid: a830d85711e124b948547a4101affe10, type: 3}
+    - {fileID: 21300000, guid: 53a7e78726a2d4db880dea1f7e5f02c8, type: 3}
+    - {fileID: 21300000, guid: 76f08c2f4341e49e4b48b3aeaeb1bf0e, type: 3}
+    - {fileID: 21300000, guid: 35bbc597eb2804a30a73d5ec6baf9b9f, type: 3}
+    - {fileID: 21300000, guid: 51f28dd2cc80844a4be29213bac6bd9f, type: 3}
+    - {fileID: 21300000, guid: 17155b171356f4d52b8385abf0476f13, type: 3}
+    - {fileID: 21300000, guid: 13d8c495bc4c14ced9fbe2d717524512, type: 3}
+    - {fileID: 21300000, guid: e94ae00ba7b95436fa4d0a15dec5917c, type: 3}
+    - {fileID: 21300000, guid: 568ed1d3ad4944c2f9582965da128628, type: 3}
+    - {fileID: 21300000, guid: 942c829839f224155b8d48c98f915a06, type: 3}
+    - {fileID: 21300000, guid: c71d532cd77bf495c9d8b52aa729ece3, type: 3}
+    - {fileID: 21300000, guid: f723c4b66ea4a49ff80c0b3d7ae4e093, type: 3}
+    - {fileID: 21300000, guid: f34f8a8df241140fda903ed38a41c219, type: 3}
+    - {fileID: 21300000, guid: 2cb3d99f1fed64db3b0d8325df7337e6, type: 3}
+    - {fileID: 21300000, guid: 9ae7ffdfbddde47b098d6734576116f0, type: 3}
+    - {fileID: 21300000, guid: 264a01d56bf3942eb94908393b4f2606, type: 3}
+    - {fileID: 21300000, guid: aa88dc280bed44adab06748e1146b6a5, type: 3}
+    - {fileID: 21300000, guid: 2104dfdb2279a4aefba2ac5f6eb08ad6, type: 3}
+    - {fileID: 21300000, guid: 95c307c00960944a4bba505e2cb963d0, type: 3}
+    - {fileID: 21300000, guid: d419b669eaaf9495e81acc1a8619e0fa, type: 3}
+    - {fileID: 21300000, guid: 25f920a1dc4d144058462a3935fe45ef, type: 3}
+    - {fileID: 21300000, guid: 6b64cefaa23e64fbfb4d5502925c94cb, type: 3}
+    - {fileID: 21300000, guid: f146017a7857f4d5397701b30533ed2d, type: 3}
+    - {fileID: 21300000, guid: 47f30b275f44f46d88bf7d2e77e6b5af, type: 3}
+    - {fileID: 21300000, guid: 6d0ee2badb4654d64a8b47273c2ffb39, type: 3}
+    - {fileID: 21300000, guid: 1df5db96f6bae406dadea0fc8e7c29c1, type: 3}
+    - {fileID: 21300000, guid: e279c8c199a2b4a48980d911cff45506, type: 3}
+    duration: 1
+    delay: 0
+  sprite: {fileID: 21300000, guid: efe03c59bc7f64af5abd707c3a954c76, type: 3}
+  rule:
+    reward:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    substitutesForWild: 1

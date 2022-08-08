@@ -1,0 +1,28 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"/Applications/XAMPP/xamppfiles/htdocs/1;/Volumes/Extra/piyush/Piyush/Projects/Casino/Jeydeepsir/WebGLBuild/1;/Users/ios/Desktop/Casino2/demo;/Users/ios/Desktop/Casino2/demo/demo;/Users/ios/Desktop/Jaydeep/Casino2/demo;/Users/unity/Downloads/casino11;/Applications/XAMPP/xamppfiles/htdocs/casino11;/Applications/XAMPP/xamppfiles/htdocs/casino1;/Volumes/Extra/piyush/Piyush/Projects/Casino/WebGL_Build/casino;/Applications/XAMPP/xamppfiles/htdocs/casino\"}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            }
+        ]
+    }
+}
